@@ -55,7 +55,7 @@ We separated it out here to make it extra clear what has changed. */
 }
 
 button {
-  display: block;
+  display: block; /*Block so it can go onto a new line like it wants*/
   margin: 0 auto;
   padding: 8px 24px;
 }
